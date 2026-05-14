@@ -1,0 +1,26 @@
+PatientID,PatientName,Age,Gender,BloodPressure,Temperature,Disease
+P101,Aarav,22,Male,120,36.5,Cold
+P102,Diya,65,Female,150,38.2,Fever
+P103,Vivaan,45,Male,135,37,Diabetes
+P104,Anaya,70,Female,160,39.1,Hypertension
+P105,Aditya,30,Male,125,36.8,Healthy
+P106,Kiara,55,Female,145,37.8,Fever
+P107,Arjun,62,Male,170,38.5,Heart Disease
+P108,Sara,28,Female,118,36.7,Healthy
+P109,Rohan,48,Male,142,37.2,BP
+P110,Meera,75,Female,180,39,Hypertension
+P111,Kabir,34,Male,128,36.6,Healthy
+P112,Ishita,67,Female,155,38.4,Fever
+P113,Yash,50,Male,138,37.1,Diabetes
+P114,Riya,29,Female,122,36.9,Healthy
+P115,Dev,61,Male,165,38,Heart Disease
+P116,Sneha,58,Female,148,37.5,BP
+P117,Aryan,72,Male,175,39.3,Hypertension
+P118,Pooja,40,Female,130,36.8,Healthy
+P119,Kunal,66,Male,158,38.1,Fever
+P120,Neha,27,Female,119,36.5,Cold
+P121,Rahul,63,Male,168,38.7,Heart Disease
+P122,Simran,52,Female,140,37,BP
+P123,Aisha,31,Female,124,36.6,Healthy
+P124,Varun,69,Male,172,39.2,Hypertension
+P125,Tanya,24,Female,117,36.4,Healthy
