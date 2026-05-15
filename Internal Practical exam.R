@@ -27,7 +27,6 @@ print(city_revenue)
 avg_price <- aggregate(Price ~ Product,sales,mean)
 print(avg_price)
 
-
 #5.Identify the product with the highest revenue.
 highest_revenue <- sales[which.max(sales$Revenue),]
 print(highest_revenue)
@@ -71,25 +70,4 @@ print(high_marks)
 df$grade <- ifelse(df$marks >= 85,"A","B")
 print(df)
 
-
-#2. Sort data by Revenue in descending order.
-sorted_sales <- sales[order(sales$Revenue,decreasing = TRUE),]
-print(sorted_sales)
-
-
-#3.Find total Revenue by city.
-
-city_revenue <- aggregate(Revenue ~ City, sales,sum)
-print(city_revenue)
-
-#4.Find average price by product.
-
-avg_price <- aggregate(Price ~ Product,sales,mean)
-print(avg_price)
-
-
-#5.Identify the product with the highest revenue.
-
-highest_revenue <- sales[which.max(sales$Revenue),]
-print(highest_revenue)
 
